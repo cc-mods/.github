@@ -14,7 +14,7 @@ your way — on **desktop** and on **iPhone/iPad** — built around the
 | **[cc-ios](https://github.com/cc-mods/cc-ios)** | Native WKWebView wrapper that runs CrossCode on iPhone/iPad (the iOS analog of CrossAndroid) | — | ✅ platform |
 | **[cc-ultrawide](https://github.com/cc-mods/cc-ultrawide)** | True ultrawide (21:9) field of view with pixel-perfect integer scaling | ✅ | ✅ |
 | **[cc-aimassist](https://github.com/cc-mods/cc-aimassist)** | Gentle controller aim assist (locks onto a nearby enemy; spread untouched) | ✅ | ✅ |
-| **[cc-iostitlebuttons](https://github.com/cc-mods/cc-iostitlebuttons)** | Native Restart/Close title-screen buttons for cc-ios (no-op on desktop) | ⏸️ disabled | ✅ |
+| **[cc-iosux](https://github.com/cc-mods/cc-iosux)** | cc-ios QoL: native Restart/Close title buttons + FPS-counter toggle (no-op on desktop) | ⏸️ disabled | ✅ |
 | **[cc-tailsync](https://github.com/cc-mods/cc-tailsync)** | Wireless save sync over Tailscale (iOS library + macOS/Windows save-servers) | ✅ server | ✅ |
 | **[CCModDB](https://github.com/cc-mods/CCModDB)** | The mod database CCModManager reads for one-click installs | ✅ | ✅ |
 
